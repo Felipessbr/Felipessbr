@@ -34,9 +34,6 @@ Apaixonado por tecnologia e sempre aprendendo algo novo! 💡💻
 ### 🚀 Minhas Contribuições no GitHub  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipessbr&theme=radical)
 
-### 🔥 Streak do GitHub  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Felipessbr&theme=radical)](https://git.io/streak-stats)
-
 ---
 
 ## 📂 Projetos em Destaque  
@@ -55,13 +52,4 @@ Apaixonado por tecnologia e sempre aprendendo algo novo! 💡💻
 ---
 
 🚀 *Buscando sempre evoluir e contribuir com soluções inovadoras!*
-
-
-## 📫 Como me encontrar?  
-
-📩 **E-mail:** [fs754282@gmail.com](mailto:fs754282@gmail.com)  
-🌎 **Portfólio:** [Meu Portfólio](https://felipessbr.github.io/Meu-Portf-lio-/)  
-
----
-
 
