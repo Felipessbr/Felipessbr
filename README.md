@@ -39,7 +39,8 @@ Apaixonado por tecnologia e sempre aprendendo algo novo! 💡💻
 ## 📂 Projetos em Destaque  
  
 - 🎬 [Clone da Disney](https://felipessbr.github.io/disneyplus-clone/) - **HTML, CSS, JS**  
-- 💈 [Sistema de Agendamento para Barbearia](https://felipessbr.github.io/Projeto-Barbearia/) - **HTML, CSS, JS**  
+- 💈 [Sistema de Agendamento para Barbearia](https://felipessbr.github.io/Projeto-Barbearia/) - **HTML, CSS, JS**
+- 🚕 App Taxi - React, Node.js, Tailwind CSS(https://restaxi.netlify.app/)
   
 
 ---
